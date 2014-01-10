@@ -7,7 +7,7 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 
-for i in range (2001,2014):
+for i in range (2000,2014):
 	year = str(i)
 	readFile = open('txt/'+ year+'.txt','r')
 
