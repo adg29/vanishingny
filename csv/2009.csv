@@ -1,11 +1,12 @@
-Closing (Year),Place,History Lost (Years),Reason
-2009,Arnold Hatters,50,"Unable to make rent after original location taken by eminent domain to build New York Times tower, replaced by 7-Eleven"
-2009,Joe Jr.'s diner,35,"Lost their lease, now upscale coffee"
-2009,P&G Bar,67,"Lost lease, gutted and replaced by upscale cafe"
-2009,Amato Opera House,61,"Closed by the owner in old age, building sold"
-2009,Love Saves the Day,43,Closed in part due to high rent
-2009,Tavern on the Green,75,Bankruptcy
-2009,Café Des Artistes,92,Bankruptcy
-2009,Manny's Music,74,"Bought out by Sam Ash, also later shuttered"
-2009,Provincetown Playhouse,91,Demolished by NYU
-2009,Biography Bookshop,25,"Rent hike, owners relocated as BookBook"
+Closing (Year),Place,History Lost (Years),Reason,Location
+2009,Arnold Hatters,50,"Unable to make rent after original location taken by eminent domain to build New York Times tower, replaced by 7-Eleven",
+2009,Joe Jr.'s diner,35,"Lost their lease, now upscale coffee",
+2009,P&G Bar,67,"Lost lease, gutted and replaced by upscale cafe",
+2009,Amato Opera House,61,"Closed by the owner in old age, building sold",
+2009,Love Saves the Day,43,Closed in part due to high rent,
+2009,Tavern on the Green,75,Bankruptcy,
+2009,Café Des Artistes,92,Bankruptcy,
+2009,Manny's Music,74,"Bought out by Sam Ash, also later shuttered",
+2009,Provincetown Playhouse,91,Demolished by NYU,
+2009,Biography Bookshop,25,"Rent hike, owners relocated as BookBook",
+2009,Papaya King,?,Rent issues. The rent was too (damn) high., 7th Ave and 14th street
