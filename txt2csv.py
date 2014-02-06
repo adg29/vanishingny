@@ -49,8 +49,8 @@ for i in range (2000,2015):
 	    writer.writerows(placetime)
 
 
-# with open("vanishingny.csv", "wb") as f:
-#     writer = csv.writer(f)
-#     writer.writerows(header + aggregate[::-1])
+with open("vanishingny.csv", "wb") as f:
+    writer = csv.writer(f)
+    writer.writerows(header + aggregate[::-1])
 
 
