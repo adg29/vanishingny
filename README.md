@@ -1,14 +1,12 @@
 # About Vanishing NY
 
-As more buildings, businesses, and venues in NY vanish, the contributes to this data repository help visualized and commemorate their impact and history.
+As more buildings, businesses, and venues in NY vanish, the contributoions to this data repository help visualize and commemorate their impact and history.
 
 ## Data
 
-Use the `csv` data to create useful graphics and interactive visualizations.
+Both `txt` and `csv` contain identical data, but in different formats. These files contain the most recent data that has been cobtributed to the project. Use the `csv` data to create useful graphics and interactive visualizations.
 
-Both `txt` and `csv` contain identical data, but in different formats. These files contain the most recent data that has been cobtributed to the project. 
-
-`python txt2csv.py` converts `txt` formatted data into `csv`. Run this command if you add new data to the txt files. 
+`txt2csv.py` converts `txt` formatted data into `csv`. Run this command if you add new data to the txt files. 
 
 Or add the data directly to the CSV. 
 
