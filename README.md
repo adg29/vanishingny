@@ -1,17 +1,15 @@
 # About Vanishing NY
 
 
-This data repository help visualize and commemorate their impact and history of buildings, businesses, and venues that have vanished in NY.
+Data collected to help visualize and commemorate the history and impact of buildings, businesses, and venues that have vanished in NY.
 
 ## Data
 
-`vanishingny.csv` is the master list of all collected records. You will also find `txt` and `csv` files that contain identical data separated by year. These files contain the most recent data that has been cobtributed to the project. 
+[vanishingny.csv](../blob/master/vanishingny.csv) is the master list of all collected records. You will also find `txt` and `csv` files that contain identical data separated by year. These files contain the most recent data that has been cobtributed to the project. 
 
-Use the `csv` data to create useful graphics and interactive visualizations.
+[txt2csv.py](../blob/master/txt2csv.py) converts `txt` formatted data into many individual `csv` files and one master `vanishingny.csv` file according to some fairly specific parsing logic. Run this command if you add new data to the txt files. 
 
-`txt2csv.py` converts `txt` formatted data into many individual `csv` files and one master `vanishingny.csv` file. Run this command if you add new data to the txt files. 
-
-Or add the data directly to the `csv`. 
+Or add the data directly to the `csv` files. 
 
 Create a pull request and your contribution will be appreciated.
 
