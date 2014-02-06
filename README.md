@@ -2,7 +2,7 @@
 
 As more buildings, businesses, and venues in NY vanish, the contributes to this data repository help visualized and commemorate their impact and history.
 
-## Data Repository
+## Data
 
 Use the `csv` data to create useful graphics and interactive visualizations.
 
