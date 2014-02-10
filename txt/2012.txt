@@ -50,7 +50,7 @@ University Diner: 60 years
 Evicted
 
 El Faro: 85 years
-Possibly evicted? Needed to raise 80K to correct code violations "Apparently, the restaurant has received calls and emails of support from customers around the world since it closed. El Faro still has a devoted clientele, noting, "People have their packages delivered to us. It's like an extension of their house...We delivered food to some of our elderly [customers] and even brought them milk and bread if they couldn't leave home."; 822 Greenwich St
+Possibly evicted? Needed to raise 80K to correct code violations 'Apparently, the restaurant has received calls and emails of support from customers around the world since it closed. El Faro still has a devoted clientele, noting, 'People have their packages delivered to us. It's like an extension of their house...We delivered food to some of our elderly [customers] and even brought them milk and bread if they couldn't leave home.'; 822 Greenwich St
 
 Village Chess Shop: 40 years
 Closed due to lack of business
