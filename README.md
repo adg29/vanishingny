@@ -9,6 +9,32 @@ Data collected to help visualize and commemorate the history and impact of build
 
 [txt2csv.py](../blob/master/txt2csv.py) converts `txt` formatted data into many individual `csv` files and one master `vanishingny.csv` file according to some fairly specific parsing logic. Run this command if you add new data to the txt files. 
 
+### Adding and converting `txt` data
+
+The format of data expected in the `txt` files allows `txt2csv.py` to parse the text files to CSV correctly. Please refer to the template below.
+
+
+```
+[NAME]: [YEARS_OF_BUSINESS] years
+[COMMENTARY_AND_DESCRIPTION];[LOCATION]
+```
+
+To insert a new reord into the `txt` files, just replace the braces with your data. For example:
+
+```
+’Inoteca: 11 years
+Serving small plates and Montepulciano to guests on the daily since 2003. Denton announced the closure in a statement that indicates he and his partner are relinquishing the lease;98 Rivington
+```
+
+Finally, run the `txt2csv.py` script on the data.
+
+
+#### Formatting Gotchas
+* Denton announced the closure in a statement that indicates he and his partner are relinquishing the lease and reads, 
+
+
+### Contributing
+
 Or add the data directly to the `csv` files. 
 
 Create a pull request and your contribution will be appreciated.
