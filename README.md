@@ -15,7 +15,7 @@ The format of data expected in the `txt` files allows `txt2csv.py` to parse the 
 
 
 ```
-[NAME]: [YEARS_OF_BUSINESS]
+[NAME] : [YEARS_OF_BUSINESS]
 [COMMENTARY_AND_DESCRIPTION];[LOCATION]
 ```
 
