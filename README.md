@@ -24,12 +24,17 @@ To insert a new reord into the `txt` files, just replace the braces with your da
 ```
 ’Inoteca: 11 years
 Serving small plates and Montepulciano to guests on the daily since 2003. Denton announced the closure in a statement that indicates he and his partner are relinquishing the lease;98 Rivington
+
 ```
 
 Finally, run the `txt2csv.py` script on the data.
 
 
 #### Formatting Gotchas
+* Each record is comprised of two lines.
+* The important delimiters to include are the colon on line 1 and the semicolon on line 2
+* Include a newline at the end of the record and start the next record immediately after.
+
 * Remove double quotes and use single quotes instead 
 
 
