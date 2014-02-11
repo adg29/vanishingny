@@ -16,7 +16,7 @@ The format of data expected in the `txt` files allows `txt2csv.py` to parse the 
 
 ```
 [NAME] : [YEARS_OF_BUSINESS]
-[COMMENTARY_AND_DESCRIPTION];[LOCATION]
+[COMMENTARY_AND_DESCRIPTION] ; [LOCATION]
 ```
 
 To insert a new reord into the `txt` files, just replace the braces with your data. For example:
