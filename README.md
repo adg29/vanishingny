@@ -15,7 +15,7 @@ The format of data expected in the `txt` files allows `txt2csv.py` to parse the 
 
 
 ```
-[NAME]: [YEARS_OF_BUSINESS] years
+[NAME]: [YEARS_OF_BUSINESS]
 [COMMENTARY_AND_DESCRIPTION];[LOCATION]
 ```
 
@@ -30,7 +30,7 @@ Finally, run the `txt2csv.py` script on the data.
 
 
 #### Formatting Gotchas
-* Denton announced the closure in a statement that indicates he and his partner are relinquishing the lease and reads, 
+* Remove double quotes and use single quotes instead 
 
 
 ### Contributing
